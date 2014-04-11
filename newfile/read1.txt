@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+git is a version control system.
+git remote add origin git@git.com/username/***.git
+=======
+git is a version control system.
+>>>>>>> d5f4c4046b7a21ff31dd028bddc2e66cd60856ca
